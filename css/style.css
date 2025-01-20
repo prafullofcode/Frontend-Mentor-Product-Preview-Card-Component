@@ -60,7 +60,6 @@ body{
     font-size: 3.5rem;
     font-weight: 700;
     margin-bottom: 2rem;
-
 }
 
 .product-description{
@@ -79,7 +78,7 @@ body{
 
 .discounted-price{
     color: var(--dark-cyan);
-    font-weight: 600;
+    font-weight: 700;
     font-size: 3rem;
     margin-right: 2rem;
 }
